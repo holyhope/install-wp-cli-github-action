@@ -17,7 +17,7 @@ inputs:
       True to check the WP-CLI binary's integrity and authenticity.
       False to skip the checks.
     required: false
-    default: true
+    default: 'true'
 
 outputs:
   path:
